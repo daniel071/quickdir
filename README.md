@@ -1,5 +1,5 @@
 # quickdir
-## quickdir is a simple tool to easily change directories within the shell
+quickdir is a simple tool to easily change directories within the shell
 
 ## Installation
 ### *NIX  (Linux, macOS, BSD)
