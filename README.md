@@ -5,7 +5,7 @@ quickdir is a simple tool to easily change directories within the shell
 ### *NIX  (Linux, macOS, BSD)
 Simply run this installation script:
 ```bash
-sudo bash <(curl -s https://raw.githubusercontent.com/daniel071/quickdir/master/src/install.sh)
+curl -s https://raw.githubusercontent.com/daniel071/quickdir/master/src/install.sh | sudo sh
 ```
 
 ### Windows
